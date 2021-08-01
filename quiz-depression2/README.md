@@ -1,4 +1,4 @@
-# quiz-depression
+# quiz-depression2
 
 ## Project setup
 ```
